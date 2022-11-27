@@ -3,10 +3,10 @@
 Requirements:
 
 Python Library:
-Selenium
-os
-requests
-time
+Selenium,
+os,
+requests,
+time,
 
 Before running the program,
 In audio.py and transcript.py has path variable that need to change accordingly.
