@@ -71,6 +71,3 @@ Transcript folder contain the all downloaded transcript corresponding to input.t
 -------------------------------------------
 At the end of program, It will show successfully completed otherwise some error occurred.  
 
-
-For better view of README download this file
-[readme.txt](https://github.com/RajGothi/Web_Crawling/files/10116149/readme.txt)
