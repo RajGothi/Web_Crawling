@@ -31,14 +31,6 @@ You can see that there are 6 field value that user need to enter to get audio an
 1)RNU-NSD Type,2)RNU-NSD Name,3)RNU-NSD Language Name,4)RNU-NSD  Bulletin Name,5)Date from,6) Date to 
 That 6 field value user need to write in input.txt file, line by line(not in same line).. (Repo contains the example of input.txt file)
 
-ex. Input.txt
-Regional
-Ahmedabad
-Gujarati
-1910
-10/26/2022 8:10:15 PM
-11/26/2022 8:10:15 PM
-
 Make sure that whatever value you written in input.txt file is valid(same to same as show in website).
 (You can copy-paste the 6 field value in txt file.)
 
@@ -52,5 +44,5 @@ Output of code:
 At the end of program, It will show successfully completed otherwise some error occurred.  
 
 
-
+For better view of README download below file
 [readme.txt](https://github.com/RajGothi/Web_Crawling/files/10116149/readme.txt)
