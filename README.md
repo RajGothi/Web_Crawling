@@ -14,6 +14,11 @@ time,
 ConfigParser,
 Google chrome
 
+Chrome driver Extension file:
+https://chromedriver.chromium.org/downloads
+Based on the version of Chrome that is installed in the system, download corresponding driver and unzip in same directory as code with name 'chromedriver.exe'
+
+
 -----------------------------------------------
 ->First user need to clone the repo
 ->Open config.ini file
